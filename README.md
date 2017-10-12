@@ -14,6 +14,8 @@ The Computer Lab CTF will have n novel twists:
 2. It will be narrative-focused. Data on the servers and devices that participants attack will serve as environmental storytelling providing an aesthetic experience that complements the technical experience.
 3. An emphasis on challenges that will be empower people outside of the security industry like web developers, data engineers & IT professionals by helping them leverage their existing skillsets to **HACK**.
 
+*TODO* Pics
+
 ## mvp
 
 We have built n demo challenges that you can play online here.
