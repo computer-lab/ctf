@@ -58,6 +58,8 @@ language-agnostic. Ideally the services will live in containers for isolation.
 Other isolation techniques may be necessary for esoteric services that depend
 on platform specific features or legacy operating systems.
 
+**TODO** Challenge framework
+
 ## Crypto
 
 We are interested in a game mechanic where the first person to claim a flag can
