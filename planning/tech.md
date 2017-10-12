@@ -28,7 +28,8 @@ We will also need a router and layer-2 switch (we have both). Depending on the
 venue other equipment may be necessary to facilitate connectivity. The router
 will need to be hardened, ideally we install OpenWRT or similar.
 
-If we want to support remote participation we will need a hardware VPN.
+~~If we want to support remote participation we will need a hardware VPN.~~
+NO
 
 #### IoT
 
