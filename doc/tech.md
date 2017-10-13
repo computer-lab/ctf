@@ -28,7 +28,8 @@ We will also need a router and layer-2 switch (we have both). Depending on the
 venue other equipment may be necessary to facilitate connectivity. The router
 will need to be hardened, ideally we install OpenWRT or similar.
 
-If we want to support remote participation we will need a hardware VPN.
+~~If we want to support remote participation we will need a hardware VPN.~~
+NO
 
 #### IoT
 
@@ -56,6 +57,8 @@ Challenges will be small network services. Ideally these can be
 language-agnostic. Ideally the services will live in containers for isolation.
 Other isolation techniques may be necessary for esoteric services that depend
 on platform specific features or legacy operating systems.
+
+**TODO** Challenge framework
 
 ## Crypto
 
