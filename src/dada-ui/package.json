@@ -1,0 +1,19 @@
+{
+  "name": "dada-ui",
+  "version": "1.0.0",
+  "description": "Finds arbitrary UIs on the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computer-lab/ctf.git"
+  },
+  "author": "Robert C Jensen <rob@computerlab.io>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/computer-lab/ctf/issues"
+  },
+  "homepage": "https://github.com/computer-lab/ctf#readme"
+}
