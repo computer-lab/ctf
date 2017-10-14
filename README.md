@@ -45,5 +45,5 @@ We need help.
 
 ## Resources
 
-[are.na](https://www.are.na/rob-jensen/ctf)
+[are.na](https://www.are.na/rob-jensen/ctf)  
 [trello](https://trello.com/b/Tyv7kEob/ctf)
