@@ -1,7 +1,7 @@
 # ctf
 
 The _Computer Lab CTF_ will be an information security Capture the Flag (CTF)
-event. A infosec CTF is a hacking wargame where an organizer hides digital
+event. An infosec CTF is a hacking wargame where an organizer hides digital
 "flags" on a network of computer systems, and participants attempt to find
 vulnerabilites that allow them to own systems and exfiltrate flags.
 
@@ -10,7 +10,7 @@ DEFCON hacking conference. The DEFCON CTF has developed into a complex
 attack/defend competition where teams must both patch their own vulnerable
 systems and try to exploit others. In recent years, other groups have developed
 different flavors of CTF to suit different audiences, and the CTF has become an
-alternative to the product-oriented "Hackathon" model.
+alternative to the product-oriented "Hackathon" game popular in Silicon Valley.
 
 The Computer Lab CTF will introduce three main twists:
 
@@ -25,7 +25,12 @@ The Computer Lab CTF will introduce three main twists:
 We hope to help our developer friends leverage their existing skillsets to
 **HACK**, and we want it to be very fun and aesthetic.
 
-## potential venues
+## potential venues / partners
+
+- Eyebeam
+- BabyCastles
+- NYC Resistor
+- China Chalet
 
 ## mvp
 
