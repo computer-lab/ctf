@@ -1,20 +1,31 @@
 # ctf
 
-The Computer Lab CTF will be an infosec capture the flag (CTF) event. In an infosec CTF the organizing party hides digital "flags" on computer systems. Participants collaborate and compete to find ways to compromise the computer systems and exfiltrate the flags.
+The _Computer Lab CTF_ will be an information security Capture the Flag (CTF)
+event. A infosec CTF is a hacking wargame where an organizer hides digital
+"flags" on a network of computer systems, and participants attempt to find
+vulnerabilites that allow them to own systems and exfiltrate flags.
 
-...
+Infosec CTFs date back the mid-90s, where they became the centerpiece of the
+DEFCON hacking conference. The DEFCON CTF has developed into a complex
+attack/defend competition where teams must both patch their own vulnerable
+systems and try to exploit others. In recent years, other groups have developed
+different flavors of CTF to suit different audiences, and the CTF has become an
+alternative to the product-oriented "Hackathon" model.
 
-There is a long history of CTF events dating back to ...
+The Computer Lab CTF will introduce three main twists:
 
-*TODO* Background on CTFs
+1. Flags will often be private keys that unlock crytocurrency wallets containing
+   real tokens.
 
-The Computer Lab CTF will have n novel twists:
+2. It will be narrative-focused. Data on the challenge servers and devices will
+   be used for environmental storytelling.
 
-1. Many of the flags will be private keys that unlock crytocurrency wallets that contain real tokens.
-2. It will be narrative-focused. Data on the servers and devices that participants attack will serve as environmental storytelling providing an aesthetic experience that complements the technical experience.
-3. An emphasis on challenges that will be empower people outside of the security industry like web developers, data engineers & IT professionals by helping them leverage their existing skillsets to **HACK**.
+3. Challenges will aim to empower tech workers outside of the security industry. 
 
-*TODO* Pics
+We hope to help our developer friends leverage their existing skillsets to
+**HACK**, and we want it to be very fun and aesthetic.
+
+## potential venues
 
 ## mvp
 
@@ -43,7 +54,7 @@ We need help.
 * Freaks
 * Musicians
 
-## Resources
+## resources
 
 [are.na](https://www.are.na/rob-jensen/ctf)  
 [trello](https://trello.com/b/Tyv7kEob/ctf)
