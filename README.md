@@ -1,4 +1,4 @@
-# ctf
+# computer lab ctf
 
 The __Computer Lab CTF__ will be an information security Capture the Flag (CTF)
 event hosted by [Computer Lab](https://computerlab.io) in New York City. An
