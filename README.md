@@ -1,10 +1,10 @@
 # ctf
 
 The __Computer Lab CTF__ will be an information security Capture the Flag (CTF)
-event hosted by [Computer Lab](https://computerlab.io) somewhere in New York
-City. An infosec CTF is a hacking wargame where the organizer hides digital
-"flags" on a network of computer systems, and participants attempt to find
-vulnerabilites that allow them to compromise systems and exfiltrate flags.
+event hosted by [Computer Lab](https://computerlab.io) in New York City. An
+infosec CTF is a hacking wargame where the organizer hides digital "flags" on a
+network of computer systems, and participants attempt to find vulnerabilites
+that allow them to compromise systems and exfiltrate flags.
 
 There's a history of infosec CTFs dating back to the mid-90s, where a CTF became
 the centerpiece of the DEFCON hacking conference. The DEFCON CTF has developed
